@@ -3,4 +3,9 @@
     "description": ".w1sley", 
     "update_timestamp": 1700575065,
     "url_format": "https://raw.githubusercontent.com/w1sleycode/helper/main/locations/all.json"    
+    	"locations": {
+		"de_mirage": [
+			// array of locations
+		]
+	}
 }
